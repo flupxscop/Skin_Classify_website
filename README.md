@@ -18,7 +18,7 @@ Built with Next.js and integrated with machine learning models.
 
 * Next.js (React)
 * TypeScript
-* Tailwind CSS (if used)
+* Tailwind CSS
 * Python (for AI model)
 * CNN + Naive Bayes
 
@@ -26,7 +26,7 @@ Built with Next.js and integrated with machine learning models.
 
 ## 📸 Screenshots
 
-![Demo](demo.gif)
+![Demo](public/demo.gif)
 
 ---
 
