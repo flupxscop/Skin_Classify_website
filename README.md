@@ -26,7 +26,7 @@ Built with Next.js and integrated with machine learning models.
 
 ## 📸 Screenshots
 
-![Demo](public/demo.gif)
+![Demo](Demo.gif)
 
 ---
 
