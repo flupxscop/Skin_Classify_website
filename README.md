@@ -9,7 +9,6 @@ Built with Next.js and integrated with machine learning models.
 
 * 🧠 AI-based skin disease prediction
 * 📸 Image upload for classification
-* 📊 Combine image + metadata analysis
 * ⚡ Fast and responsive UI
 
 ---
@@ -19,8 +18,6 @@ Built with Next.js and integrated with machine learning models.
 * Next.js (React)
 * TypeScript
 * Tailwind CSS
-* Python (for AI model)
-* CNN + Naive Bayes
 
 ---
 
@@ -69,14 +66,6 @@ public/         → assets
 
 ---
 
-## 🤖 AI Model
-
-* CNN for image classification
-* Naive Bayes for metadata
-* Combined prediction system
-
----
-
 ## 📌 Future Improvements
 
 * 🔥 Improve model accuracy
@@ -86,7 +75,7 @@ public/         → assets
 
 ## 👤 Author
 
-Flupxcops
+* Flupxcops
 
 ---
 
